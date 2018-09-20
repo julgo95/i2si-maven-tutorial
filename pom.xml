@@ -142,7 +142,7 @@
                             <report>summary</report>
                             <report>team</report>
                             <report>licenses</report>
-                            <report>scm</report>
+                            <report>scm</report> 
                         </reports>
                     </reportSet>
                 </reportSets>
