@@ -10,7 +10,7 @@ nb-configuration.xml
 .settings
 .recommenders
 .metadata
-
+ 
 # Maven
 target/
 */target/
